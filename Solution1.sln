@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Install", "Install", "{77B4E6E8-E1E6-4B1E-8844-9F1E747737DA}"
+	ProjectSection(SolutionItems) = preProject
+		Install.xml = Install.xml
+		F:\共享文件夹\Painter.ipa = F:\共享文件夹\Painter.ipa
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
